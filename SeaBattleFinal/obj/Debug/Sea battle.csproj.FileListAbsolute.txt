@@ -1,0 +1,41 @@
+C:\Users\shost\Desktop\C#\Sea battle\Sea battle\bin\Debug\Sea battle.exe.config
+C:\Users\shost\Desktop\C#\Sea battle\Sea battle\bin\Debug\Sea battle.exe
+C:\Users\shost\Desktop\C#\Sea battle\Sea battle\bin\Debug\Sea battle.pdb
+C:\Users\shost\Desktop\C#\Sea battle\Sea battle\obj\Debug\Sea battle.csprojResolveAssemblyReference.cache
+C:\Users\shost\Desktop\C#\Sea battle\Sea battle\obj\Debug\Sea_battle.Form1.resources
+C:\Users\shost\Desktop\C#\Sea battle\Sea battle\obj\Debug\Sea_battle.Properties.Resources.resources
+C:\Users\shost\Desktop\C#\Sea battle\Sea battle\obj\Debug\Sea battle.csproj.GenerateResource.Cache
+C:\Users\shost\Desktop\C#\Sea battle\Sea battle\obj\Debug\Sea battle.exe
+C:\Users\shost\Desktop\C#\Sea battle\Sea battle\obj\Debug\Sea battle.pdb
+C:\Users\Виталик\Desktop\Sea battle\Sea battle\bin\Debug\Sea battle.exe.config
+C:\Users\Виталик\Desktop\Sea battle\Sea battle\obj\Debug\Sea battle.exe
+C:\Users\Виталик\Desktop\Sea battle\Sea battle\obj\Debug\Sea battle.pdb
+C:\Users\Виталик\Desktop\Sea battle\Sea battle\bin\Debug\Sea battle.exe
+C:\Users\Виталик\Desktop\Sea battle\Sea battle\bin\Debug\Sea battle.pdb
+C:\Users\Виталик\Desktop\Sea battle\Sea battle\obj\Debug\Sea battle.csprojResolveAssemblyReference.cache
+C:\Users\Виталик\Desktop\Sea battle\Sea battle\obj\Debug\Sea_battle.Form1.resources
+C:\Users\Виталик\Desktop\Sea battle\Sea battle\obj\Debug\Sea_battle.Properties.Resources.resources
+C:\Users\Виталик\Desktop\Sea battle\Sea battle\obj\Debug\Sea battle.csproj.GenerateResource.Cache
+D:\Програмування\II курс\C#\Sea battle\Sea battle\bin\Debug\Sea battle.exe.config
+D:\Програмування\II курс\C#\Sea battle\Sea battle\obj\Debug\Sea battle.exe
+D:\Програмування\II курс\C#\Sea battle\Sea battle\obj\Debug\Sea battle.pdb
+E:\II курс\C#\Sea battle\Sea battle\bin\Debug\Sea battle.exe.config
+E:\II курс\C#\Sea battle\Sea battle\bin\Debug\Sea battle.exe
+E:\II курс\C#\Sea battle\Sea battle\bin\Debug\Sea battle.pdb
+E:\II курс\C#\Sea battle\Sea battle\obj\Debug\Sea battle.csprojAssemblyReference.cache
+E:\II курс\C#\Sea battle\Sea battle\obj\Debug\Sea_battle.Form1.resources
+E:\II курс\C#\Sea battle\Sea battle\obj\Debug\Sea_battle.Properties.Resources.resources
+E:\II курс\C#\Sea battle\Sea battle\obj\Debug\Sea battle.csproj.GenerateResource.cache
+E:\II курс\C#\Sea battle\Sea battle\obj\Debug\Sea battle.csproj.CoreCompileInputs.cache
+E:\II курс\C#\Sea battle\Sea battle\obj\Debug\Sea battle.exe
+E:\II курс\C#\Sea battle\Sea battle\obj\Debug\Sea battle.pdb
+D:\projects\2 year\Csharp\vsCommunity\Sea battle\bin\Debug\Sea battle.exe.config
+D:\projects\2 year\Csharp\vsCommunity\Sea battle\bin\Debug\Sea battle.exe
+D:\projects\2 year\Csharp\vsCommunity\Sea battle\bin\Debug\Sea battle.pdb
+D:\projects\2 year\Csharp\vsCommunity\Sea battle\obj\Debug\Sea battle.csprojAssemblyReference.cache
+D:\projects\2 year\Csharp\vsCommunity\Sea battle\obj\Debug\Sea_battle.Form1.resources
+D:\projects\2 year\Csharp\vsCommunity\Sea battle\obj\Debug\Sea_battle.Properties.Resources.resources
+D:\projects\2 year\Csharp\vsCommunity\Sea battle\obj\Debug\Sea battle.csproj.GenerateResource.cache
+D:\projects\2 year\Csharp\vsCommunity\Sea battle\obj\Debug\Sea battle.csproj.CoreCompileInputs.cache
+D:\projects\2 year\Csharp\vsCommunity\Sea battle\obj\Debug\Sea battle.exe
+D:\projects\2 year\Csharp\vsCommunity\Sea battle\obj\Debug\Sea battle.pdb
