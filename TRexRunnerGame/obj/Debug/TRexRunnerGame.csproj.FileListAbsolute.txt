@@ -1,0 +1,10 @@
+D:\projects\easyGamesWF\TRexRunnerGame\bin\Debug\TRexRunnerGame.exe.config
+D:\projects\easyGamesWF\TRexRunnerGame\bin\Debug\TRexRunnerGame.exe
+D:\projects\easyGamesWF\TRexRunnerGame\bin\Debug\TRexRunnerGame.pdb
+D:\projects\easyGamesWF\TRexRunnerGame\obj\Debug\TRexRunnerGame.csprojAssemblyReference.cache
+D:\projects\easyGamesWF\TRexRunnerGame\obj\Debug\TRexRunnerGame.Form1.resources
+D:\projects\easyGamesWF\TRexRunnerGame\obj\Debug\TRexRunnerGame.Properties.Resources.resources
+D:\projects\easyGamesWF\TRexRunnerGame\obj\Debug\TRexRunnerGame.csproj.GenerateResource.cache
+D:\projects\easyGamesWF\TRexRunnerGame\obj\Debug\TRexRunnerGame.csproj.CoreCompileInputs.cache
+D:\projects\easyGamesWF\TRexRunnerGame\obj\Debug\TRexRunnerGame.exe
+D:\projects\easyGamesWF\TRexRunnerGame\obj\Debug\TRexRunnerGame.pdb
