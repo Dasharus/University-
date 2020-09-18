@@ -1,0 +1,10 @@
+D:\projects\thirdyear\Langranje\bin\Debug\Langranje.exe.config
+D:\projects\thirdyear\Langranje\bin\Debug\Langranje.exe
+D:\projects\thirdyear\Langranje\bin\Debug\Langranje.pdb
+D:\projects\thirdyear\Langranje\obj\Debug\Langranje.csprojAssemblyReference.cache
+D:\projects\thirdyear\Langranje\obj\Debug\Langranje.Form1.resources
+D:\projects\thirdyear\Langranje\obj\Debug\Langranje.Properties.Resources.resources
+D:\projects\thirdyear\Langranje\obj\Debug\Langranje.csproj.GenerateResource.cache
+D:\projects\thirdyear\Langranje\obj\Debug\Langranje.csproj.CoreCompileInputs.cache
+D:\projects\thirdyear\Langranje\obj\Debug\Langranje.exe
+D:\projects\thirdyear\Langranje\obj\Debug\Langranje.pdb
